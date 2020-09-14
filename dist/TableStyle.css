@@ -1,0 +1,11 @@
+.row-selected-class {
+  background-color: #f5f5f5;
+}
+
+.rs-table-cell {
+  background: unset;
+}
+
+.rs-table-cell-group-fixed-left {
+  background: unset;
+}
